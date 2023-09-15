@@ -1,0 +1,95 @@
+ h1{
+    color:blue;
+}
+.span{
+    color: blue;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction:row;
+}
+.imageacralogo{
+    height: 70pxx;
+    width: 70px;
+}
+.about{
+    color: blue;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+}
+
+.cardside {
+    display: flex;
+    flex-direction: row;
+}
+h3{
+    color: blue;
+    font-size: 20px;
+}
+.imagevisaicon{
+    height: 70px;
+}
+h4{
+    color: blue;
+    font-size: 20px;
+}
+.imagepaymentgateway{
+    height: 90px;
+}
+.gateway{
+    display: flex;
+    flex-direction: column;
+}
+.payment{
+    display: flex;
+    flex-direction:row;
+}
+.handshake{
+    height: 70px;
+}
+.shake{
+    display:flex;
+    flex-direction: column;
+}
+h5{
+    color: blue;
+    font-size: 20px;
+}
+.hand{
+    display: flex;
+    flex-direction: row;
+}
+.posterminal{
+    height: 150px;
+}
+h6{
+    color: blue;
+    font-size: 20px;
+}
+.terminal{
+    display: flex;
+    flex-direction: column;
+}
+.pos{
+    display: flex;
+    flex-direction: row;
+}
+.straighten{
+    display: flex;
+    flex-direction: row;
+}
+span{
+    color: blue;
+}
+.it{
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
+    text-decoration-color: blue;
+    color: black;
+}
+.picture{
+    display: flex;
+    flex-direction: row
+}

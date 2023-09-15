@@ -1,0 +1,19 @@
+.card{
+    display: flex;
+    flex-direction:row;
+}
+
+.card-row{
+    display: flex;
+    flex-direction: row;
+}
+
+.card-main{
+    display: flex;
+    flex-direction: row;
+}
+
+.cardNum{
+    width: 20px;
+    height: 20px;
+}
